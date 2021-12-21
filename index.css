@@ -1,0 +1,9 @@
+/* adding the css to extend the properties that are there for the bootstrap  */
+/* we will use the bootstrap and the css both for the better website  */
+
+/* writing the css for the home page  */
+.img-fluid {
+  border: transparent;
+  height: 550px;
+  width: 100% !important;
+}
