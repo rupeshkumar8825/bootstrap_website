@@ -7,3 +7,8 @@
   height: 550px;
   width: 100% !important;
 }
+
+.give-margin {
+  margin-top: 100px !important;
+  /* border: 2px solid black; */
+}
