@@ -12,3 +12,15 @@
   margin-top: 100px !important;
   /* border: 2px solid black; */
 }
+
+/* adding the styling for the footer to look it good  */
+.footer {
+  /* border: 2px solid black; */
+  margin-top: 50px !important;
+  height: 80px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(247, 247, 247);
+  width: 100% !important;
+}
